@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25108
     wikipedia: http://en.wikipedia.org/wiki/J._Warren_Keifer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22100#Slavery-and-Four-Years-of-War-Vol.-1-2War-In-Which-the-Author-Took-Part--1861-1865
 gutenberg_bookshelf:
 - US Civil War
 - Slavery
